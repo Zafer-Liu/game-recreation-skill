@@ -31,6 +31,10 @@ It applies to 2D puzzles, board games, platformers, 3D exploration, and other ga
 
 Download or clone this repository, then give your coding agent access to it. No package installation is needed just to read or use the skill.
 
+```bash
+git clone https://github.com/Zafer-Liu/game-recreation-skill.git
+```
+
 ### Install in a project
 
 Copy the **entire** `skills/game-recreation/` directory to the location your agent supports:

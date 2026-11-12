@@ -19,6 +19,10 @@
 
 下载或克隆本仓库，让 agent 能读取其中的文件。仅阅读和使用 Skill 不需要安装 npm 依赖。
 
+```bash
+git clone https://github.com/Zafer-Liu/game-recreation-skill.git
+```
+
 ### 放入项目
 
 复制完整的 `skills/game-recreation/` 目录：
